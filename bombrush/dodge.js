@@ -6,8 +6,8 @@ var C = {
   },
   dodger: {
     image: 'assets/dodger.png',
-    width: 46,
-    height: 64,
+    width: 54,
+    height: 61,
     frames: 2,
     startx: 160,
     starty: 500,
