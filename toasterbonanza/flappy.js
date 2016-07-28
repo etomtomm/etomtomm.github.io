@@ -34,7 +34,7 @@ var CONFIG = {
       }
   },
   "sign": {
-      "width": 46,
+      "width": 64,
       "height": 64,
       "scale": 1,
       "offset": -200,
