@@ -21,7 +21,7 @@ var C = {
     height: 64,
     frames: 1,
     gravity: 1000, // set to 0 to just use velocity
-    velocity: 800 // ignored if gravity > 0
+    velocity: 1300 // ignored if gravity > 0
   }
 };
 
