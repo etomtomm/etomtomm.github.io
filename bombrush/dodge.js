@@ -126,7 +126,7 @@ class PlayState {
     if (this.cursors.right.isDown) {
       this.dodger.body.velocity.x = C.dodger.speed;
     }
-    if (this.dodgeme.y >= 400) {
+    if (this.dodgeme.y >= 568) {
       this.resetDodgeme();
     }
     game.physics.arcade.collide(this.dodgeme,this.dodger,this.handleCollision);
