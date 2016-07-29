@@ -1,7 +1,7 @@
 var C = {
   background: {
     image: 'assets/background.png',
-    scroll: 700,
+    scroll: 300,
     scale: 1
   },
   dodger: {
